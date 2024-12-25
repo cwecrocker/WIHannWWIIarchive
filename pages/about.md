@@ -22,15 +22,8 @@ While training in Scotland with the 166th Newfoundland Field Regiment, Bill met 
 
 Bill found found himself in Newfoundland on home leave when the war in Europe ended on 8 May 1945. His wife Mary, whom he had not seen for two and a half years, was still in Scotland. Hann could not gain permission to travel back to Scotland, so Mary secured passage across the Atlantic on the SS Bayano. She departed from Avonmouth along with several other war brides on 12 July 1945.19 The ship intended to dock in Nova Scotia but was diverted to Montreal due to the Bedford Magazine explosion of 18–19 July in the Halifax harbour, which occurred when a barge exploded and set off a chain reaction of explosions and fires. Bill and Mary were finally reunited when the Bayano arrived in Montreal. As Mary later recalled, Bill greeted her with “a great big bunch of roses which he threw, one by one, at me on the ship.” On returning to Newfoundland, Bill had a successful career in the furniture and hotel businesses and served on Corner Brook City Council as both a counsellor and deputy mayor. He and Mary had five children together and celebrated their seventieth wedding anniversary a few months be fore Bill died at the age of 94 on 9 January 2013. Mary died six years later, on 28 January 2019 at the age of 98.
 
-## About the Collection
+## About the Archive
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+This archive ...
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
